@@ -1,2 +1,1 @@
-# Iris-data-set
-Predict the species of different Flowers
+#Predict the species of different Flowers - Iris-data-set
